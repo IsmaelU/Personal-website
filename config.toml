@@ -1,3 +1,22 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "hello-friend-ng"
+
+homeSubtitle = "Possible a personal portfolio website"
+defaultTheme = "dark"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+    identifier = "CV"
+    name = "CV"
+    url = "/cv"
