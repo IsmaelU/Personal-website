@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ismael's website"
 theme = "hello-friend-ng"
 
 homeSubtitle = "Possible a personal portfolio website"
@@ -16,7 +16,3 @@ defaultTheme = "dark"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
-
-    identifier = "CV"
-    name = "CV"
-    url = "/cv"
