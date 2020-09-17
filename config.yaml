@@ -1,0 +1,31 @@
+---
+baseURL: "http://example.org/"
+languageCode: "en-uk"
+title: "Ismael's website"
+logoText: "Ismael's Blog"
+theme: "hello-friend-ng"
+copyright: '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+homeSubtitle: "Possible a personal portfolio website"
+defaultTheme: "dark"
+
+taxonomies:
+    category: "blog"
+    tag: "tag1"
+    series: "series"
+
+
+menu:
+    main:
+    - identifier: blog
+      name: blog
+      pre: <i class='fa fa-heart'></i>
+      url: /blog/
+      weight: -110
+    - name: getting started
+      post: <span class='alert'>New!</span>
+      pre: <i class='fa fa-road'></i>
+      url: /getting-started/
+      weight: -100
+  
+

@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/getting-started/guide/</loc>
+    <lastmod>2020-09-17T21:32:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/getting-started/</loc>
+    <lastmod>2020-09-17T21:32:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-09-17T21:32:17+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/blog/</loc>
     <lastmod>2020-09-12T11:42:19+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-09-12T11:42:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/blog/my-first-post/</loc>
+    <loc>http://example.org/blog/deandre/</loc>
     <lastmod>2020-09-12T11:42:19+01:00</lastmod>
   </url>
   
@@ -26,7 +36,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://example.org/tag1/</loc>
   </url>
   
 </urlset>

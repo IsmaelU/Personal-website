@@ -5,19 +5,30 @@
     <link>http://example.org/</link>
     <description>Recent content on Ismael&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 11:42:19 +0100</lastBuildDate>
+    <language>en-uk</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 17 Sep 2020 21:32:17 +0100</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/blog/my-first-post/</link>
+      <title>Getting Started</title>
+      <link>http://example.org/getting-started/guide/</link>
+      <pubDate>Thu, 17 Sep 2020 21:32:17 +0100</pubDate>
+      
+      <guid>http://example.org/getting-started/guide/</guid>
+      <description>This is the guide for the website</description>
+    </item>
+    
+    <item>
+      <title>DeAndre Jordan the Bahal</title>
+      <link>http://example.org/blog/deandre/</link>
       <pubDate>Sat, 12 Sep 2020 11:42:19 +0100</pubDate>
       
-      <guid>http://example.org/blog/my-first-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </description>
+      <guid>http://example.org/blog/deandre/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </description>
     </item>
     
   </channel>
